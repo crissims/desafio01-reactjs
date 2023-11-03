@@ -1,10 +1,14 @@
-import {Post} from "./Post"
+import { Button } from "./components/Button";
+
 
 export function App() {
   
 
   return (
-    <Post />
+    <>
+    <Button />
+    </>
+    
   )
 }
 
