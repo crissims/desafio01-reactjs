@@ -1,8 +1,8 @@
-import  './Header.module.css'
+import styles from './Header.module.css'
 
 
 export function Header() {
     return (
-        <strong className="header">todo</strong>
+        <strong className={styles.header}>todo</strong>
     );
 }
