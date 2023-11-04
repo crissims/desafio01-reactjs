@@ -1,10 +1,11 @@
 * {
     background: #1A1A1A ;
     height: 1024px;
-    width: 1440px
-    top: 461px
-    left: 209px
-
+    width: 1440px;
+    top: 461px;
+    left: 209px;
+    box-sizing: border-box;
+    
     
 }
 
