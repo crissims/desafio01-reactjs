@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 1440px;
+    height: 200px;
+    
+}
+
+
+body {
+    background: #1A1A1A;
+    color: #808080;
+    width: 1440px;
+    height: 200px;
+}

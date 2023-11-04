@@ -3,6 +3,8 @@ import styles from './Header.module.css'
 
 export function Header() {
     return (
-        <strong className={styles.header}>todo</strong>
-    );
+        <header className={styles.header}>
+        <strong>todo</strong>
+        </header>
+    );  
 }

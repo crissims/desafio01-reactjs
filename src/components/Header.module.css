@@ -1,5 +1,8 @@
 .header {
     background: #0D0D0D;
-    height: 200px;
     width: 1440px;
+    height: 200px;
+    flex-shrink: 0;
+    box-sizing: border-box
+    
 }
