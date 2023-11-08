@@ -1,12 +1,15 @@
 * {
-    background: #1A1A1A ;
-    height: 1024px;
-    width: 1440px;
-    top: 461px;
-    left: 209px;
-    box-sizing: border-box;
-    
+    background-color: #1A1A1A ;
+    /* height: 100%;
+    width: 100%;
+    position: relative; */
     
 }
 
 
+body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
