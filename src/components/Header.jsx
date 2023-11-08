@@ -1,13 +1,11 @@
 import styles from './Header.module.css'
-import { Logo } from '../assets/logo';
+import Logolist from '../assets/Logolist.svg'
 
 export function Header() {
     return (
         
         <header className={styles.header}>
-            
-            <Logo />
-        
-        </header>
+            <img src={Logolist} alt="To do List logo" />
+           </header>
     );  
 }
