@@ -1,0 +1,10 @@
+.input {
+    width: fill(638px);
+    height: 54px;
+    border-radius: 8px;
+    border: 1px;
+    padding: 16px;
+    gap: 8px;
+
+    align-self: left;
+}

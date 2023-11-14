@@ -1,18 +1,20 @@
-
-
-import { Header } from "./components/Header";
 import './global.css'
 
-export function App() {
-  
+import { Home } from './components/Home'
 
-  return (
-    <div>
-      <Header />
-      
-    </div>
+
+export function App() {
+    return (
+      <div>
+        
+        <Home />
+       
+       
+
+      </div>
+
+       
     
   )
 }
-
-
+  
